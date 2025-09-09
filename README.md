@@ -34,7 +34,7 @@ Colocar em prática conceitos fundamentais de **HTML semântico** e **CSS modern
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/leandrofn3/recipe-page-main
 
 2. Acesse a pasta do projeto:
    ```bash

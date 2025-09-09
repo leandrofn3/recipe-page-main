@@ -38,7 +38,7 @@ Colocar em prática conceitos fundamentais de **HTML semântico** e **CSS modern
 
 2. Acesse a pasta do projeto:
    ```bash
-   cd nome-do-repo
+   cd recipe-page-main
 
 3. Abra o arquivo index.html em qualquer navegador.
 
